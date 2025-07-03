@@ -1,0 +1,41 @@
+name: srmatrix_x1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/background.png
+    - assets/logo.png
+    - assets/icon.png
+    - assets/attendance_icon.png
+    - assets/cgpa_icon.png
+    - assets/sgpa_icon.png
+    - assets/scoremeter_icon.png
+
+  fonts:
+    - family: Mokoto
+      fonts:
+        - asset: assets/fonts/Mokoto.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
