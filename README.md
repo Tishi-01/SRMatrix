@@ -2,6 +2,14 @@
 
 A Flutter app to help students track their Attendance, CGPA, and SGPA.
 
+## 👥 Contributors
+
+This project was developed by:
+
+- **Tanishk Bhatnagar**
+- [**Sarthak Singh Rawat**](https://github.com/Tyler-Durden-2006)
+- [**Vanshika Tripathi**](https://github.com/0neshe)
+
 ## Features
 - Attendance calculator
 - CGPA/SGPA tracking
